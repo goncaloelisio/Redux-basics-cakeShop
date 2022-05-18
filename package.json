@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
-    "redux": "^4.2.0"
+    "immer": "^9.0.14",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6"
   }
 }
